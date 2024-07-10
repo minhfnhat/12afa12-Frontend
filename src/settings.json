@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover the world from behind the wheel with our innovative and exhilarating cars.",
+        "title": "Unleash Your Journey"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Discover the world from behind the wheel with our innovative and exhilarating cars.",
+        "title": "Unleash Your Journey"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover the world from behind the wheel with our innovative and exhilarating cars.",
+        "title": "Unleash Your Journey"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover the world from behind the wheel with our innovative and exhilarating cars.",
+        "title": "Unleash Your Journey"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover the world from behind the wheel with our innovative and exhilarating cars.",
+        "title": "Unleash Your Journey"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover the world from behind the wheel with our innovative and exhilarating cars.",
+        "title": "Unleash Your Journey"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover the world from behind the wheel with our innovative and exhilarating cars.",
+        "title": "Unleash Your Journey"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover the world from behind the wheel with our innovative and exhilarating cars.",
+        "title": "Unleash Your Journey"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unleash Your Journey",
+  "subtitle": "Discover the world from behind the wheel with our innovative and exhilarating cars."
+}
